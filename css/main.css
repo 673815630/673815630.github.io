@@ -41,7 +41,7 @@ a {
   text-decoration: none;
 }
 header {
-  background: url(../img/head-bg0.jpg) no-repeat fixed 0 0;
+  background: url(../img/homeBg.jpg) no-repeat fixed 0 0;
 }
 header .nav-wrap {
   max-width: 1550px;
